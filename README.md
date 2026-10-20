@@ -246,7 +246,7 @@ kubectl delete -f service.yaml
 Your application is built and pushed to Docker Hub with:
 
 ```yaml
-image: priyanshubirla/myapp:latest
+image: adityanimesh/myapp:latest
 ```
 
 ---
